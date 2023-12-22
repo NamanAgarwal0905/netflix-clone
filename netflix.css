@@ -1,0 +1,62 @@
+
+#holder{
+    background-image: url("background.jpg");
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height:729.60px;
+}
+div{
+    color:white;
+    
+}
+#text1{
+  font-weight: 900;
+  font-size: 50;
+}
+#text2{
+    font-size: 30;
+}
+#text3{
+    font-size: 23;
+}
+.account{
+    font-size: 20;
+    background-color: black;
+    height: 45;
+    width: 300;
+    color: white;
+}
+#start{
+    height:45;
+    width:200;
+    background-color: #E50914;
+    color:white;
+    font-size: 22;
+    font-weight: bolder;
+}
+header{
+    background-color: black;
+    height:44;
+    padding: 24 32 24 32;
+    color:#E50914;
+    font-size: 46;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  
+  
+}
+#signin
+{
+    height :35;
+    width:90;
+    font-size: 18;
+    font-weight: 400;
+    background-color: #E50914;
+    color: white;
+    border-radius: 5px;
+    border-color: #E50914;
+    position: relative;
+    left: 1200px;
+    down:15px;
+}
